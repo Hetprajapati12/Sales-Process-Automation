@@ -1,0 +1,14 @@
+tracking_id,company_name,email,sent_timestamp,opened,clicked
+9879bee5-3689-4dc6-96cf-6610112caeeb,TechInnovate Solutions LLC,sarah.chen@techinnovatesolutions.com,1747905419.945501,False,False
+b85dc9ee-0a60-4ecc-a456-ecd3bcbe8d4c,CloudFirst Analytics Inc,michael@cloudfirstanalytics.com,1747905424.8938735,False,False
+771d34c6-b935-4fa9-8337-37a082997150,Digital Growth Partners,jennifer@digitalgrowthpartners.com,1747905429.285798,False,False
+94e0f68f-572c-449f-9960-27501aae356c,E-Commerce Accelerator Group,david.kim@ecommerceaccelerator.com,1747905433.55635,False,False
+b79b476a-ab35-4d50-9f1f-f04d715c046d,Strategic Business Advisors,lisa@strategicbusinessadvisors.com,1747905437.5566738,False,False
+e6a47c39-d804-4fc3-bca4-6dab83186ee5,InnovateTech Labs,alex@innovatetechlabs.com,1747905451.8248303,False,False
+e6df4b96-70ac-4551-b7cd-5a616d93d99a,ScaleUp SaaS Solutions,rachel@scaleupsaas.com,1747905456.029236,False,False
+b8ef388e-714f-440e-bfb9-a4c5bcec09ec,Performance Marketing Group,carlos@performancemarketinggroup.com,1747905459.8846467,False,False
+9e2685a8-6e1a-4d0f-9d6b-9ffec8cf28fa,NextGen Software Corp,amanda@nextgensoftware.com,1747905463.818642,False,False
+0b4124f4-d819-4560-bf70-1c739e40145a,Retail Analytics Pro,kevin@retailanalyticspro.com,1747905469.805249,False,False
+6d20d33b-34cb-45de-bc40-eae514b491af,Business Solutions 724 LLC,business@businesssolutions724.com,1747905483.568107,False,False
+67be5bcb-d8bf-4bd4-a9b3-d03bed93d27c,Tech Consulting 731 Inc,info@techconsulting731inc.com,1747905487.6265304,False,False
+d44d98fb-443c-4be6-9aa3-adbdda97900f,Tech Consulting 957 Group,contact@techconsulting957gro.com,1747905492.6760647,False,False
